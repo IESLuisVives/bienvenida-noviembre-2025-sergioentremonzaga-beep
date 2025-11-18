@@ -1,10 +1,11 @@
 # Datos del alumno/a
 
-Nombre: Tu nombre y Dos apellidos
+Nombre: Sergio Entremonzaga Donoso
 
-Curso: 1DAW o 2DAW
+Curso: 1DAW
 
-Email: tu email de IES Luis Vives o EducaMadrid
+Email: sergio.entremonzaga@educa.madrid.org
 
-Nick GitHub: Tu nick de GitHub
+Nick GitHub: sergioentremonzaga-beep
+
 
